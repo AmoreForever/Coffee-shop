@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic-settings>=2.0.0
+psycopg2-binary
+passlib[bcrypt]
+python-jose
+alembic
+starlette
+apscheduler
+python-multipart>=0.0.5
